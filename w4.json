@@ -1,0 +1,225 @@
+{
+ "spider": "https://gitee.com/yygitee118/hd-source/raw/main/api/v1/drpy2.min.js",
+ "logo": "",
+ "wallpaper": "",
+ "parses": [
+  {
+   "name": "4K1",
+   "type": 1,
+   "url": "http://chaoqianys.top:98/api/jsonindex.php/?key=DHZNz2KxkQ6szAWfJo&url=",
+   "ext": {
+    "flag": [
+     "qq",
+     "腾讯",
+     "qiyi",
+     "爱奇艺",
+     "奇艺",
+     "youku",
+     "优酷",
+     "sohu",
+     "搜狐",
+     "letv",
+     "乐视",
+     "mgtv",
+     "芒果",
+     "tnmb",
+     "seven",
+     "bilibili",
+     "1905"
+    ],
+    "header": {
+     "User-Agent": "okhttp/4.9.1"
+    }
+   }
+  }
+ ],
+ "lives": [
+  {
+   "name": "本地直播-央卫(518条)",
+   "type": 1,
+   "playerType": 1,
+   "url": "https://gitee.com/yygitee118/hd-source/raw/main/api/v2/tvlive.txt",
+   "logo": "https://live.fanmingming.com/tv/{name}.png"
+  },
+  {
+   "name": "本地直播-IPv6央视频道(313条)",
+   "type": 1,
+   "playerType": 1,
+   "url": "https://gitee.com/yygitee118/hd-source/raw/main/api/v2/ipv6.m3u",
+   "logo": "https://live.fanmingming.com/tv/{name}.png"
+  },
+  {
+   "name": "央卫",
+   "type": 0,
+   "url": "https://jiekou.bailukeji.top/quanguozhibo.txt",
+   "playerType": 1,
+   "logo": "https://live.fanmingming.com/tv/{name}.png"
+  },
+  {
+   "name": "4GTV",
+   "type": 0,
+   "url": "https://tvv.wqwqwq.sbs/iptv.m3u",
+   "playerType": 1,
+   "logo": "https://live.fanmingming.com/tv/{name}.png"
+  },
+  {
+   "name": "IPV6",
+   "type": 0,
+   "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+   "playerType": 1,
+   "logo": "https://live.fanmingming.com/tv/{name}.png"
+  },
+  {
+   "name": "平台直播",
+   "type": 0,
+   "url": "https://tv.iill.top/m3u/Live",
+   "ua": "okhttp/3.15",
+   "playerType": 2
+  }
+ ],
+ "rules": [
+  {
+   "name": "♻️量非",
+   "hosts": [
+    "lz",
+    "vip.lz",
+    "v.cdnlz",
+    "hd.lz",
+    "ffzy",
+    "vip.ffzy",
+    "hd.ffzy"
+   ],
+   "regex": [
+    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+   ]
+  },
+  {
+   "name": "♻️索尼",
+   "hosts": [
+    "suonizy",
+    "qrssv.com"
+   ],
+   "regex": [
+    "15.1666",
+    "15.2666"
+   ]
+  },
+  {
+   "name": "♻️乐视",
+   "hosts": [
+    "leshiyun"
+   ],
+   "regex": [
+    "15.92"
+   ]
+  },
+  {
+   "name": "♻️优质",
+   "hosts": [
+    "yzzy",
+    "playback"
+   ],
+   "regex": [
+    "16.63",
+    "18.66",
+    "17.66",
+    "19.13"
+   ]
+  },
+  {
+   "name": "♻️快看",
+   "hosts": [
+    "kuaikan",
+    "vip.kuaikan"
+   ],
+   "regex": [
+    "15.32",
+    "15.231",
+    "18.066"
+   ]
+  },
+  {
+   "name": "♻️360",
+   "hosts": [
+    "lyhuicheng"
+   ],
+   "regex": [
+    "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
+    "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
+   ]
+  },
+  {
+   "name": "♻️开源棋牌",
+   "hosts": [
+    "askzycdn",
+    "jkunbf",
+    "bfikuncdn",
+    "bfaskcdn"
+   ],
+   "regex": [
+    "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+    "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\\r*\\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+   ]
+  },
+  {
+   "name": "♻️暴风",
+   "hosts": [
+    "bfengbf.com",
+    "bfzy",
+    "c1"
+   ],
+   "regex": [
+    "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+    "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+   ]
+  },
+  {
+   "name": "♻️农民",
+   "hosts": [
+    "toutiaovod.com"
+   ],
+   "regex": [
+    "video/tos/cn"
+   ]
+  },
+  {
+   "name": "♻️火山",
+   "hosts": [
+    "huoshan.com"
+   ],
+   "regex": [
+    "item_id="
+   ]
+  },
+  {
+   "name": "♻️抖音",
+   "hosts": [
+    "douyin.com"
+   ],
+   "regex": [
+    "is_play_url="
+   ]
+  },
+  {
+   "name": "♻️磁力",
+   "hosts": [
+    "magnet"
+   ],
+   "regex": [
+    "最 新",
+    "直 播",
+    "更 新"
+   ]
+  },
+  {
+   "name": "♻️饭团点击",
+   "hosts": [
+    "fantuan"
+   ],
+   "script": [
+    "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
+   ]
+  }
+ ]
+}
