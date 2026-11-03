@@ -92,17 +92,6 @@
    "playerType": 1
   },
   {
-   "key": "一零一",
-   "name": "l0l",
-   "type": 3,
-   "api": "https://gitee.com/yygitee118/hd-source/raw/main/api/v1/drpy2.min.js",
-   "ext": "https://gitee.com/yygitee118/hd-source/raw/main/api/v1/一零一.js",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "playerType": 1
-  },
-  {
    "key": "三六零",
    "name": "360影视[官]",
    "type": 3,
@@ -196,17 +185,6 @@
    "type": 3,
    "api": "https://gitee.com/yygitee118/hd-source/raw/main/api/v1/drpy2.min.js",
    "ext": "https://gitee.com/yygitee118/hd-source/raw/main/api/v1/兄弟影视.js",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "playerType": 1
-  },
-  {
-   "key": "免费看",
-   "name": "免费看",
-   "type": 3,
-   "api": "https://gitee.com/yygitee118/hd-source/raw/main/api/v1/drpy2.min.js",
-   "ext": "https://gitee.com/yygitee118/hd-source/raw/main/api/v1/免费看.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
@@ -328,17 +306,6 @@
    "type": 3,
    "api": "https://gitee.com/yygitee118/hd-source/raw/main/api/v1/drpy2.min.js",
    "ext": "https://gitee.com/yygitee118/hd-source/raw/main/api/v1/四个圈.js",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "playerType": 1
-  },
-  {
-   "key": "在线之家",
-   "name": "在线之家",
-   "type": 3,
-   "api": "https://gitee.com/yygitee118/hd-source/raw/main/api/v1/drpy2.min.js",
-   "ext": "https://gitee.com/yygitee118/hd-source/raw/main/api/v1/在线之家.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
