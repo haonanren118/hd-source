@@ -918,13 +918,6 @@
    "playerType": 1,
    "url": "https://gitee.com/yygitee118/hd-source/raw/main/api/v2/ipv6.m3u",
    "logo": "https://live.fanmingming.com/tv/{name}.png"
-  },
-  {
-   "name": "IPV6",
-   "type": 0,
-   "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-   "playerType": 1,
-   "logo": "https://live.fanmingming.com/tv/{name}.png"
   }
  ],
  "rules": [
