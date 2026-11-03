@@ -2063,14 +2063,14 @@
    "name": "本地直播-央卫(518条)",
    "type": 1,
    "playerType": 1,
-   "url": "https://gitee.com/yygitee118/hd-source/raw/main/api/lib/tvlive.txt",
+   "url": "https://gitee.com/yygitee118/hd-source/raw/main/api/v2/tvlive.txt",
    "logo": "https://live.fanmingming.com/tv/{name}.png"
   },
   {
    "name": "本地直播-IPv6央视频道(313条)",
    "type": 1,
    "playerType": 1,
-   "url": "https://gitee.com/yygitee118/hd-source/raw/main/api/lib/ipv6.m3u",
+   "url": "https://gitee.com/yygitee118/hd-source/raw/main/api/v2/ipv6.m3u",
    "logo": "https://live.fanmingming.com/tv/{name}.png"
   },
   {
