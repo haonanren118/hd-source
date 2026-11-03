@@ -1471,8 +1471,8 @@
      "v": "高分犯罪片"
     },
     {
-     "n": "高分恐怖片",
-     "v": "高分恐怖片"
+     "n": "高分惊悚片",
+     "v": "高分惊悚片"
     },
     {
      "n": "高分冒险片",
@@ -2015,7 +2015,7 @@
    "categories": []
   },
   {
-   "key": "魔力高清",
+   "key": "HDmoli",
    "name": "HDmoli",
    "type": 3,
    "api": "https://cdn.jsdelivr.net/gh/haonanren118/hd-source@main/api/js/drpy2.min.js",
