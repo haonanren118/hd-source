@@ -12,65 +12,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "最新电影",
-     "v": "ys"
-    },
-    {
-     "n": "经典高清",
-     "v": "bd"
-    },
-    {
-     "n": "国配电影",
-     "v": "gy"
-    },
-    {
-     "n": "经典港片",
-     "v": "gp"
-    },
-    {
-     "n": "国剧",
-     "v": "dsj"
-    },
-    {
-     "n": "日韩剧",
-     "v": "dsj1"
-    },
-    {
-     "n": "美剧",
-     "v": "yx"
-    },
-    {
-     "n": "综艺",
-     "v": "zy"
-    },
-    {
-     "n": "动漫",
-     "v": "dmq"
-    },
-    {
-     "n": "纪录片",
-     "v": "jilupian"
-    },
-    {
-     "n": "高清原盘",
-     "v": "1080p"
-    },
-    {
-     "n": "4K高清区",
-     "v": "4K"
-    },
-    {
-     "n": "3D电影",
-     "v": "3d"
-    },
-    {
-     "n": "电影专题",
-     "v": "dyzt"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "58动漫",
@@ -81,8 +23,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "AGE动漫",
@@ -93,21 +34,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "TV",
-     "v": "TV"
-    },
-    {
-     "n": "剧场版",
-     "v": "剧场版"
-    },
-    {
-     "n": "OVA",
-     "v": "OVA"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "AnFuns",
@@ -118,8 +45,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "Anime1",
@@ -130,45 +56,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "連載中",
-     "v": "連載中"
-    },
-    {
-     "n": "2024",
-     "v": "2024"
-    },
-    {
-     "n": "2023",
-     "v": "2023"
-    },
-    {
-     "n": "2022",
-     "v": "2022"
-    },
-    {
-     "n": "2021",
-     "v": "2021"
-    },
-    {
-     "n": "2020",
-     "v": "2020"
-    },
-    {
-     "n": "2019",
-     "v": "2019"
-    },
-    {
-     "n": "2018",
-     "v": "2018"
-    },
-    {
-     "n": "更早",
-     "v": "更早"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "NT动漫",
@@ -179,8 +67,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "NyaFun",
@@ -191,17 +78,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "番剧",
-     "v": "番剧"
-    },
-    {
-     "n": "剧场",
-     "v": "剧场"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "一三九",
@@ -212,8 +89,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "一零一",
@@ -224,8 +100,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "三六零",
@@ -236,25 +111,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "三四五",
@@ -265,8 +122,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "不开心",
@@ -277,25 +133,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "剧集",
-     "v": "剧集"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "emoFun动漫",
-     "v": "emoFun动漫"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "两个磁力",
@@ -306,45 +144,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "影视筛选",
-     "v": "影视筛选"
-    },
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "高分电影",
-     "v": "高分电影"
-    },
-    {
-     "n": "热门下载",
-     "v": "热门下载"
-    },
-    {
-     "n": "本月热门",
-     "v": "本月热门"
-    },
-    {
-     "n": "最新电影",
-     "v": "最新电影"
-    },
-    {
-     "n": "国产剧",
-     "v": "国产剧"
-    },
-    {
-     "n": "美剧",
-     "v": "美剧"
-    },
-    {
-     "n": "日韩剧",
-     "v": "日韩剧"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "乐鱼影视",
@@ -355,29 +155,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "纪录片",
-     "v": "纪录片"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "五五五",
@@ -388,25 +166,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "连续剧",
-     "v": "连续剧"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "综艺纪录",
-     "v": "综艺纪录"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "优酷视频",
@@ -417,65 +177,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "少儿",
-     "v": "少儿"
-    },
-    {
-     "n": "纪录片",
-     "v": "纪录片"
-    },
-    {
-     "n": "文化",
-     "v": "文化"
-    },
-    {
-     "n": "亲子",
-     "v": "亲子"
-    },
-    {
-     "n": "教育",
-     "v": "教育"
-    },
-    {
-     "n": "搞笑",
-     "v": "搞笑"
-    },
-    {
-     "n": "生活",
-     "v": "生活"
-    },
-    {
-     "n": "体育",
-     "v": "体育"
-    },
-    {
-     "n": "音乐",
-     "v": "音乐"
-    },
-    {
-     "n": "游戏",
-     "v": "游戏"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "佳靓影视",
@@ -486,37 +188,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "短剧",
-     "v": "短剧"
-    },
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "连续剧",
-     "v": "连续剧"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "纪录片",
-     "v": "纪录片"
-    },
-    {
-     "n": "4K影片",
-     "v": "4K影片"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "兄弟影视",
@@ -527,8 +199,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "免费看",
@@ -539,8 +210,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "创艺影视",
@@ -551,29 +221,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "纪录片",
-     "v": "纪录片"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "剧圈圈",
@@ -584,8 +232,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "动漫岛",
@@ -596,8 +243,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "动漫巴士",
@@ -608,25 +254,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "国产动漫",
-     "v": "国产动漫"
-    },
-    {
-     "n": "日本动漫",
-     "v": "日本动漫"
-    },
-    {
-     "n": "欧美动漫",
-     "v": "欧美动漫"
-    },
-    {
-     "n": "电影",
-     "v": "电影"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "南瓜影视",
@@ -637,29 +265,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "海外精选",
-     "v": "海外精选"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "去看吧",
@@ -670,8 +276,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "哔哩兔",
@@ -682,8 +287,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "哔哩视频",
@@ -694,49 +298,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "番剧",
-     "v": "番剧"
-    },
-    {
-     "n": "国创",
-     "v": "国创"
-    },
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "纪录片",
-     "v": "纪录片"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "全部",
-     "v": "全部"
-    },
-    {
-     "n": "追番",
-     "v": "追番"
-    },
-    {
-     "n": "追剧",
-     "v": "追剧"
-    },
-    {
-     "n": "时间表",
-     "v": "时间表"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "喵次元",
@@ -747,13 +309,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "全部",
-     "v": "全部"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "喵物次元",
@@ -764,8 +320,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "四个圈",
@@ -776,8 +331,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "在线之家",
@@ -788,8 +342,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "大米动漫",
@@ -800,8 +353,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "大米星球",
@@ -812,25 +364,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "奇米动漫",
@@ -841,8 +375,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "奈飞狗",
@@ -853,25 +386,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "剧集",
-     "v": "剧集"
-    },
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "特殊资源(需要代理播放)",
-     "v": "特殊资源(需要代理播放)"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "妮可动漫",
@@ -882,13 +397,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "全部",
-     "v": "全部"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "异世界",
@@ -899,17 +408,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "日漫",
-     "v": "日漫"
-    },
-    {
-     "n": "国漫",
-     "v": "国漫"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "影渣渣",
@@ -920,8 +419,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "快看影视",
@@ -932,8 +430,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "怡萱动漫",
@@ -944,25 +441,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "TV",
-     "v": "TV"
-    },
-    {
-     "n": "剧场版",
-     "v": "剧场版"
-    },
-    {
-     "n": "OVA",
-     "v": "OVA"
-    },
-    {
-     "n": "其他",
-     "v": "其他"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "搜狗视频",
@@ -973,29 +452,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "纪录片",
-     "v": "纪录片"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "暮暮动漫",
@@ -1006,8 +463,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "曲奇动漫",
@@ -1018,21 +474,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "TV",
-     "v": "TV"
-    },
-    {
-     "n": "剧场版",
-     "v": "剧场版"
-    },
-    {
-     "n": "OVA",
-     "v": "OVA"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "朴樱影视",
@@ -1043,8 +485,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "机器人",
@@ -1055,17 +496,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "剧集",
-     "v": "剧集"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "柒之社",
@@ -1076,8 +507,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "桃子影视",
@@ -1088,8 +518,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "樱花动漫",
@@ -1100,8 +529,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "次元城",
@@ -1112,21 +540,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "TV动画",
-     "v": "TV动画"
-    },
-    {
-     "n": "剧场版",
-     "v": "剧场版"
-    },
-    {
-     "n": "4K专区",
-     "v": "4K专区"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "欧帝影院",
@@ -1137,8 +551,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "热播之家",
@@ -1149,8 +562,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "爱奇艺",
@@ -1161,37 +573,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "纪录片",
-     "v": "纪录片"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "音乐",
-     "v": "音乐"
-    },
-    {
-     "n": "网络电影",
-     "v": "网络电影"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "爱弹幕",
@@ -1202,33 +584,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "日番",
-     "v": "日番"
-    },
-    {
-     "n": "美番",
-     "v": "美番"
-    },
-    {
-     "n": "劇場版",
-     "v": "劇場版"
-    },
-    {
-     "n": "真人番劇",
-     "v": "真人番劇"
-    },
-    {
-     "n": "BD副音軌",
-     "v": "BD副音軌"
-    },
-    {
-     "n": "其他",
-     "v": "其他"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "爱爱",
@@ -1239,37 +595,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "蓝光电影",
-     "v": "蓝光电影"
-    },
-    {
-     "n": "蓝光电视剧",
-     "v": "蓝光电视剧"
-    },
-    {
-     "n": "蓝光纪录片",
-     "v": "蓝光纪录片"
-    },
-    {
-     "n": "蓝光动漫",
-     "v": "蓝光动漫"
-    },
-    {
-     "n": "蓝光综艺",
-     "v": "蓝光综艺"
-    },
-    {
-     "n": "蓝光音乐",
-     "v": "蓝光音乐"
-    },
-    {
-     "n": "蓝光网络电影",
-     "v": "蓝光网络电影"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "畅梦影视",
@@ -1280,29 +606,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "海外精选",
-     "v": "海外精选"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "番茄影视",
@@ -1313,8 +617,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "皮皮鸭",
@@ -1325,41 +628,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "国产剧",
-     "v": "国产剧"
-    },
-    {
-     "n": "美剧",
-     "v": "美剧"
-    },
-    {
-     "n": "日韩剧",
-     "v": "日韩剧"
-    },
-    {
-     "n": "泰剧",
-     "v": "泰剧"
-    },
-    {
-     "n": "其他剧",
-     "v": "其他剧"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "剧集",
-     "v": "剧集"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "看了么",
@@ -1370,29 +639,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "纪录片",
-     "v": "纪录片"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "碟调影视",
@@ -1403,25 +650,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "磁力熊",
@@ -1432,109 +661,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "剧集",
-     "v": "剧集"
-    },
-    {
-     "n": "豆瓣电影Top250",
-     "v": "豆瓣电影Top250"
-    },
-    {
-     "n": "IMDB Top250",
-     "v": "IMDB Top250"
-    },
-    {
-     "n": "高分悬疑片",
-     "v": "高分悬疑片"
-    },
-    {
-     "n": "高分喜剧片",
-     "v": "高分喜剧片"
-    },
-    {
-     "n": "高分传记片",
-     "v": "高分传记片"
-    },
-    {
-     "n": "高分爱情片",
-     "v": "高分爱情片"
-    },
-    {
-     "n": "高分犯罪片",
-     "v": "高分犯罪片"
-    },
-    {
-     "n": "高分惊悚片",
-     "v": "高分惊悚片"
-    },
-    {
-     "n": "高分冒险片",
-     "v": "高分冒险片"
-    },
-    {
-     "n": "高分武侠片",
-     "v": "高分武侠片"
-    },
-    {
-     "n": "高分奇幻片",
-     "v": "高分奇幻片"
-    },
-    {
-     "n": "高分历史片",
-     "v": "高分历史片"
-    },
-    {
-     "n": "高分战争片",
-     "v": "高分战争片"
-    },
-    {
-     "n": "高分歌舞片",
-     "v": "高分歌舞片"
-    },
-    {
-     "n": "高分灾难片",
-     "v": "高分灾难片"
-    },
-    {
-     "n": "高分热门片",
-     "v": "高分热门片"
-    },
-    {
-     "n": "高分西部片",
-     "v": "高分西部片"
-    },
-    {
-     "n": "高分音乐片",
-     "v": "高分音乐片"
-    },
-    {
-     "n": "高分科幻片",
-     "v": "高分科幻片"
-    },
-    {
-     "n": "高分动作片",
-     "v": "高分动作片"
-    },
-    {
-     "n": "高分动画片",
-     "v": "高分动画片"
-    },
-    {
-     "n": "高分纪录片",
-     "v": "高分纪录片"
-    },
-    {
-     "n": "冷门佳片",
-     "v": "冷门佳片"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "米爱影视",
@@ -1545,8 +672,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "维奇动漫",
@@ -1557,21 +683,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "连载动漫",
-     "v": "连载动漫"
-    },
-    {
-     "n": "国漫",
-     "v": "国漫"
-    },
-    {
-     "n": "日漫",
-     "v": "日漫"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "网飞TV",
@@ -1582,8 +694,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "美益达",
@@ -1594,25 +705,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "腾讯视频",
@@ -1623,37 +716,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "精选",
-     "v": "精选"
-    },
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "少儿",
-     "v": "少儿"
-    },
-    {
-     "n": "纪录片",
-     "v": "纪录片"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "芒果视频",
@@ -1664,37 +727,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "纪录片",
-     "v": "纪录片"
-    },
-    {
-     "n": "教育",
-     "v": "教育"
-    },
-    {
-     "n": "少儿",
-     "v": "少儿"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "花子动漫",
@@ -1705,21 +738,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "TV动漫",
-     "v": "TV动漫"
-    },
-    {
-     "n": "剧场",
-     "v": "剧场"
-    },
-    {
-     "n": "特摄",
-     "v": "特摄"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "茶杯狐",
@@ -1730,29 +749,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "剧集",
-     "v": "剧集"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "记录片",
-     "v": "记录片"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "蜥蜴影视",
@@ -1763,8 +760,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "豆瓣",
@@ -1775,37 +771,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "热门电影",
-     "v": "热门电影"
-    },
-    {
-     "n": "热播剧集",
-     "v": "热播剧集"
-    },
-    {
-     "n": "热播综艺",
-     "v": "热播综艺"
-    },
-    {
-     "n": "电影筛选",
-     "v": "电影筛选"
-    },
-    {
-     "n": "电视筛选",
-     "v": "电视筛选"
-    },
-    {
-     "n": "电影榜单",
-     "v": "电影榜单"
-    },
-    {
-     "n": "电视剧榜单",
-     "v": "电视剧榜单"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "路漫漫",
@@ -1816,33 +782,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "日本动漫",
-     "v": "日本动漫"
-    },
-    {
-     "n": "国产动漫",
-     "v": "国产动漫"
-    },
-    {
-     "n": "欧美动漫",
-     "v": "欧美动漫"
-    },
-    {
-     "n": "日本动画电影",
-     "v": "日本动画电影"
-    },
-    {
-     "n": "国产动画电影",
-     "v": "国产动画电影"
-    },
-    {
-     "n": "欧美动画电影",
-     "v": "欧美动画电影"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "达达龟",
@@ -1853,8 +793,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "追剧迷",
@@ -1865,8 +804,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "追忆影视",
@@ -1877,25 +815,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "电视剧",
-     "v": "电视剧"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "速看一百",
@@ -1906,41 +826,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": [
-    {
-     "n": "体育",
-     "v": "体育"
-    },
-    {
-     "n": "电影",
-     "v": "电影"
-    },
-    {
-     "n": "连续剧",
-     "v": "连续剧"
-    },
-    {
-     "n": "综艺",
-     "v": "综艺"
-    },
-    {
-     "n": "动漫",
-     "v": "动漫"
-    },
-    {
-     "n": "解说",
-     "v": "解说"
-    },
-    {
-     "n": "记录片",
-     "v": "记录片"
-    },
-    {
-     "n": "预告片",
-     "v": "预告片"
-    }
-   ]
+   "playerType": 1
   },
   {
    "key": "采集之王",
@@ -1951,8 +837,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "量子影视",
@@ -1963,8 +848,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "金曼影视",
@@ -1975,8 +859,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "零零七",
@@ -1987,8 +870,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "首播影院",
@@ -1999,8 +881,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "驴番动漫",
@@ -2011,8 +892,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   },
   {
    "key": "HDmoli",
@@ -2023,8 +903,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
-   "categories": []
+   "playerType": 1
   }
  ],
  "parses": [
@@ -2074,32 +953,11 @@
    "logo": "https://live.fanmingming.com/tv/{name}.png"
   },
   {
-   "name": "央卫",
-   "type": 0,
-   "url": "https://jiekou.bailukeji.top/quanguozhibo.txt",
-   "playerType": 1,
-   "logo": "https://live.fanmingming.com/tv/{name}.png"
-  },
-  {
-   "name": "4GTV",
-   "type": 0,
-   "url": "https://tvv.wqwqwq.sbs/iptv.m3u",
-   "playerType": 1,
-   "logo": "https://live.fanmingming.com/tv/{name}.png"
-  },
-  {
    "name": "IPV6",
    "type": 0,
    "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
    "playerType": 1,
    "logo": "https://live.fanmingming.com/tv/{name}.png"
-  },
-  {
-   "name": "平台直播",
-   "type": 0,
-   "url": "https://tv.iill.top/m3u/Live",
-   "ua": "okhttp/3.15",
-   "playerType": 2
   }
  ],
  "rules": [
@@ -2172,19 +1030,6 @@
    "regex": [
     "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
     "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
-   ]
-  },
-  {
-   "name": "♻️开源棋牌",
-   "hosts": [
-    "askzycdn",
-    "jkunbf",
-    "bfikuncdn",
-    "bfaskcdn"
-   ],
-   "regex": [
-    "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-    "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\\r*\\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
    ]
   },
   {

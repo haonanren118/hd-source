@@ -953,32 +953,11 @@
    "logo": "https://live.fanmingming.com/tv/{name}.png"
   },
   {
-   "name": "央卫",
-   "type": 0,
-   "url": "https://jiekou.bailukeji.top/quanguozhibo.txt",
-   "playerType": 1,
-   "logo": "https://live.fanmingming.com/tv/{name}.png"
-  },
-  {
-   "name": "4GTV",
-   "type": 0,
-   "url": "https://tvv.wqwqwq.sbs/iptv.m3u",
-   "playerType": 1,
-   "logo": "https://live.fanmingming.com/tv/{name}.png"
-  },
-  {
    "name": "IPV6",
    "type": 0,
    "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
    "playerType": 1,
    "logo": "https://live.fanmingming.com/tv/{name}.png"
-  },
-  {
-   "name": "平台直播",
-   "type": 0,
-   "url": "https://tv.iill.top/m3u/Live",
-   "ua": "okhttp/3.15",
-   "playerType": 2
   }
  ],
  "rules": [
@@ -1051,19 +1030,6 @@
    "regex": [
     "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
     "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
-   ]
-  },
-  {
-   "name": "♻️开源棋牌",
-   "hosts": [
-    "askzycdn",
-    "jkunbf",
-    "bfikuncdn",
-    "bfaskcdn"
-   ],
-   "regex": [
-    "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-    "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\\r*\\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
    ]
   },
   {
