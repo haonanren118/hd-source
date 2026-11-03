@@ -293,7 +293,7 @@ const VERSION = vercode + ' 3.9.51beta2 20240711';
  * 8.req函数不支持传递字符串的data参数 {'content-type':'text/plain'} 类型数据，因此无法直接调用alist的ocr接口
  *  * 电脑看日志调试
  adb tcpip 5555
- adb connect 192.168.10.192
+ adb connect <内网IP>
  adb devices -l
  adb logcat -c
  adb logcat | grep -i QuickJS
