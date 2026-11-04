@@ -20,35 +20,8 @@
    "4K高清区",
    "3D电影",
    "电影专题"
-  ]
- },
- {
-  "key": "58动漫",
-  "name": "58动漫[漫]",
-  "host": "http://www.ting38.com",
-  "avail": "可用",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "AGE动漫",
-  "name": "AGE动漫",
-  "host": "https://api.agemys.org",
-  "avail": "DNS失效",
-  "avail_4k": null,
-  "categories": [
-   "TV",
-   "剧场版",
-   "OVA"
-  ]
- },
- {
-  "key": "AnFuns",
-  "name": "AnFuns动漫",
-  "host": "https://www.anfuns.cc",
-  "avail": "可用",
-  "avail_4k": null,
-  "categories": []
+  ],
+  "in_subscription": 1
  },
  {
   "key": "Anime1",
@@ -66,15 +39,8 @@
    "2019",
    "2018",
    "更早"
-  ]
- },
- {
-  "key": "NT动漫",
-  "name": "NT动漫",
-  "host": "http://www.ntdm8.com",
-  "avail": "DNS失效",
-  "avail_4k": null,
-  "categories": []
+  ],
+  "in_subscription": 1
  },
  {
   "key": "NyaFun",
@@ -85,23 +51,8 @@
   "categories": [
    "番剧",
    "剧场"
-  ]
- },
- {
-  "key": "一三九",
-  "name": "139影视",
-  "host": "https://www.139ys.com",
-  "avail": "连接超时",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "一零一",
-  "name": "l0l",
-  "host": "https://www.l0l.tv",
-  "avail": "DNS失效",
-  "avail_4k": null,
-  "categories": []
+  ],
+  "in_subscription": 1
  },
  {
   "key": "三六零",
@@ -114,60 +65,8 @@
    "电影",
    "综艺",
    "动漫"
-  ]
- },
- {
-  "key": "三四五",
-  "name": "345看片",
-  "host": "https://www.345kp.com",
-  "avail": "已下线",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "不开心",
-  "name": "EMO蓝光[V2]",
-  "host": "http://one3.emofun.top/mogai_api.php/v1.vod",
-  "avail": "DNS失效",
-  "avail_4k": null,
-  "categories": [
-   "电影",
-   "剧集",
-   "综艺",
-   "emoFun动漫"
-  ]
- },
- {
-  "key": "两个磁力",
-  "name": "两个BT",
-  "host": "https://www.bttwo.net",
-  "avail": "连接超时",
-  "avail_4k": null,
-  "categories": [
-   "影视筛选",
-   "电视剧",
-   "高分电影",
-   "热门下载",
-   "本月热门",
-   "最新电影",
-   "国产剧",
-   "美剧",
-   "日韩剧"
-  ]
- },
- {
-  "key": "乐鱼影视",
-  "name": "乐鱼影视",
-  "host": "https://www.leyupro.com",
-  "avail": "连接超时",
-  "avail_4k": null,
-  "categories": [
-   "电影",
-   "电视剧",
-   "综艺",
-   "动漫",
-   "纪录片"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "五五五",
@@ -180,7 +79,8 @@
    "连续剧",
    "动漫",
    "综艺纪录"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "优酷视频",
@@ -203,23 +103,8 @@
    "体育",
    "音乐",
    "游戏"
-  ]
- },
- {
-  "key": "佳靓影视",
-  "name": "佳靓[V2]",
-  "host": "http://api.jialiangos.com:81/api.php/app/",
-  "avail": "连接超时",
-  "avail_4k": 1,
-  "categories": [
-   "短剧",
-   "电影",
-   "连续剧",
-   "综艺",
-   "动漫",
-   "纪录片",
-   "4K影片"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "兄弟影视",
@@ -227,37 +112,8 @@
   "host": "https://brovod.com",
   "avail": "可用",
   "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "免费看",
-  "name": "免费看",
-  "host": "https://qzy998-1.ysgq.xyz",
-  "avail": "DNS失效",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "创艺影视",
-  "name": "创艺影视[V2]",
-  "host": "http://www.30dian.cn/api.php/v1.vod",
-  "avail": "连接超时",
-  "avail_4k": null,
-  "categories": [
-   "电影",
-   "电视剧",
-   "综艺",
-   "动漫",
-   "纪录片"
-  ]
- },
- {
-  "key": "剧圈圈",
-  "name": "剧圈圈",
-  "host": "https://www.jqqzx.cc/",
-  "avail": "可用",
-  "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "动漫岛",
@@ -265,7 +121,8 @@
   "host": "http://www.dmd85.com",
   "avail": "异常",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "动漫巴士",
@@ -278,7 +135,8 @@
    "日本动漫",
    "欧美动漫",
    "电影"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "南瓜影视",
@@ -292,7 +150,8 @@
    "动漫",
    "综艺",
    "海外精选"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "去看吧",
@@ -300,15 +159,8 @@
   "host": "https://www.k9dm.com",
   "avail": "可用",
   "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "哔哩兔",
-  "name": "哔哩兔",
-  "host": "https://www.bilituys.com",
-  "avail": "可用",
-  "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "哔哩视频",
@@ -327,41 +179,8 @@
    "追番",
    "追剧",
    "时间表"
-  ]
- },
- {
-  "key": "喵次元",
-  "name": "喵次元[APP]",
-  "host": "https://cym.fengche.tv/api.php/",
-  "avail": "NO_URL",
-  "avail_4k": null,
-  "categories": [
-   "全部"
-  ]
- },
- {
-  "key": "喵物次元",
-  "name": "喵物次元",
-  "host": "https://www.mwcy.net/",
-  "avail": "可用",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "四个圈",
-  "name": "四个圈影视",
-  "host": "https://pg.fenwe078.cf",
-  "avail": "DNS失效",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "在线之家",
-  "name": "在线之家",
-  "host": "https://www.zxzj.site",
-  "avail": "可用",
-  "avail_4k": null,
-  "categories": []
+  ],
+  "in_subscription": 1
  },
  {
   "key": "大米动漫",
@@ -369,7 +188,8 @@
   "host": "https://damidm.com/",
   "avail": "可用",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "大米星球",
@@ -382,7 +202,8 @@
    "电视剧",
    "动漫",
    "综艺"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "奇米动漫",
@@ -390,7 +211,8 @@
   "host": "http://www.qimiqimi.net",
   "avail": "可用",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "奈飞狗",
@@ -403,7 +225,8 @@
    "电影",
    "动漫",
    "特殊资源(需要代理播放)"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "妮可动漫",
@@ -413,7 +236,8 @@
   "avail_4k": null,
   "categories": [
    "全部"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "异世界",
@@ -424,7 +248,8 @@
   "categories": [
    "日漫",
    "国漫"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "影渣渣",
@@ -432,7 +257,8 @@
   "host": "https://www.yingzhazha.com",
   "avail": "连接超时",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "快看影视",
@@ -440,7 +266,8 @@
   "host": "https://www.kuaikanys.net",
   "avail": "可用",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "怡萱动漫",
@@ -453,7 +280,8 @@
    "剧场版",
    "OVA",
    "其他"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "搜狗视频",
@@ -467,7 +295,8 @@
    "动漫",
    "综艺",
    "纪录片"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "暮暮动漫",
@@ -475,7 +304,8 @@
   "host": "https://www.mutedm.com/",
   "avail": "NO_URL",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "曲奇动漫",
@@ -487,34 +317,8 @@
    "TV",
    "剧场版",
    "OVA"
-  ]
- },
- {
-  "key": "朴樱影视",
-  "name": "朴樱影视",
-  "host": "https://www.b09.net",
-  "avail": "DNS失效",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "机器人",
-  "name": "爱看机器人[虫]",
-  "host": "https://v.ikanbot.com",
-  "avail": "可用",
-  "avail_4k": null,
-  "categories": [
-   "电影",
-   "剧集"
-  ]
- },
- {
-  "key": "柒之社",
-  "name": "柒之社",
-  "host": "https://07vod.fun",
-  "avail": "连接超时",
-  "avail_4k": null,
-  "categories": []
+  ],
+  "in_subscription": 1
  },
  {
   "key": "桃子影视",
@@ -522,7 +326,8 @@
   "host": "https://www.taozi007.com",
   "avail": "存活受限",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "樱花动漫",
@@ -530,7 +335,8 @@
   "host": "https://katedm.com/",
   "avail": "可用",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "次元城",
@@ -542,15 +348,8 @@
    "TV动画",
    "剧场版",
    "4K专区"
-  ]
- },
- {
-  "key": "欧帝影院",
-  "name": "欧帝影院",
-  "host": "https://www.odivod.com",
-  "avail": "DNS失效",
-  "avail_4k": null,
-  "categories": []
+  ],
+  "in_subscription": 1
  },
  {
   "key": "热播之家",
@@ -558,7 +357,8 @@
   "host": "https://rebozj.pro",
   "avail": "可用",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "爱奇艺",
@@ -574,22 +374,8 @@
    "综艺",
    "音乐",
    "网络电影"
-  ]
- },
- {
-  "key": "爱弹幕",
-  "name": "爱弹幕",
-  "host": "https://anime.girigirilove.com",
-  "avail": "异常",
-  "avail_4k": null,
-  "categories": [
-   "日番",
-   "美番",
-   "劇場版",
-   "真人番劇",
-   "BD副音軌",
-   "其他"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "爱爱",
@@ -605,7 +391,8 @@
    "蓝光综艺",
    "蓝光音乐",
    "蓝光网络电影"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "畅梦影视",
@@ -619,113 +406,8 @@
    "动漫",
    "综艺",
    "海外精选"
-  ]
- },
- {
-  "key": "番茄影视",
-  "name": "番茄影视",
-  "host": "https://www.tjomet.com",
-  "avail": "连接超时",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "皮皮鸭",
-  "name": "皮皮鸭",
-  "host": "https://pipiya.cc",
-  "avail": "异常",
-  "avail_4k": null,
-  "categories": [
-   "电影",
-   "国产剧",
-   "美剧",
-   "日韩剧",
-   "泰剧",
-   "其他剧",
-   "动漫",
-   "剧集"
-  ]
- },
- {
-  "key": "看了么",
-  "name": "看了么",
-  "host": "https://www.ksksl.com",
-  "avail": "可用",
-  "avail_4k": null,
-  "categories": [
-   "电影",
-   "电视剧",
-   "动漫",
-   "综艺",
-   "纪录片"
-  ]
- },
- {
-  "key": "碟调影视",
-  "name": "碟调影视",
-  "host": "http://www.618648.com",
-  "avail": "可用",
-  "avail_4k": null,
-  "categories": [
-   "电影",
-   "电视剧",
-   "综艺",
-   "动漫"
-  ]
- },
- {
-  "key": "磁力熊",
-  "name": "磁力熊[磁]",
-  "host": "https://www.cilixiong.com",
-  "avail": "连接超时",
-  "avail_4k": null,
-  "categories": [
-   "电影",
-   "剧集",
-   "豆瓣电影Top250",
-   "IMDB Top250",
-   "高分悬疑片",
-   "高分喜剧片",
-   "高分传记片",
-   "高分爱情片",
-   "高分犯罪片",
-   "高分惊悚片",
-   "高分冒险片",
-   "高分武侠片",
-   "高分奇幻片",
-   "高分历史片",
-   "高分战争片",
-   "高分歌舞片",
-   "高分灾难片",
-   "高分热门片",
-   "高分西部片",
-   "高分音乐片",
-   "高分科幻片",
-   "高分动作片",
-   "高分动画片",
-   "高分纪录片",
-   "冷门佳片"
-  ]
- },
- {
-  "key": "米爱影视",
-  "name": "米爱影视",
-  "host": "https://www.miai.cc",
-  "avail": "DNS失效",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "维奇动漫",
-  "name": "维奇动漫[漫]",
-  "host": "https://www.uiviki.com",
-  "avail": "连接超时",
-  "avail_4k": null,
-  "categories": [
-   "连载动漫",
-   "国漫",
-   "日漫"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "网飞TV",
@@ -733,7 +415,8 @@
   "host": "https://www.wangfei.tv",
   "avail": "可用",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "美益达",
@@ -746,7 +429,8 @@
    "电视剧",
    "综艺",
    "动漫"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "腾讯视频",
@@ -762,7 +446,8 @@
    "动漫",
    "少儿",
    "纪录片"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "芒果视频",
@@ -778,7 +463,8 @@
    "纪录片",
    "教育",
    "少儿"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "花子动漫",
@@ -790,7 +476,8 @@
    "TV动漫",
    "剧场",
    "特摄"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "茶杯狐",
@@ -804,15 +491,8 @@
    "动漫",
    "综艺",
    "记录片"
-  ]
- },
- {
-  "key": "蜥蜴影视",
-  "name": "蜥蜴影视",
-  "host": "https://xi1.net",
-  "avail": "可用",
-  "avail_4k": null,
-  "categories": []
+  ],
+  "in_subscription": 1
  },
  {
   "key": "豆瓣",
@@ -828,68 +508,8 @@
    "电视筛选",
    "电影榜单",
    "电视剧榜单"
-  ]
- },
- {
-  "key": "路漫漫",
-  "name": "路漫漫",
-  "host": "https://www.lmm88.com",
-  "avail": "可用",
-  "avail_4k": null,
-  "categories": [
-   "日本动漫",
-   "国产动漫",
-   "欧美动漫",
-   "日本动画电影",
-   "国产动画电影",
-   "欧美动画电影"
-  ]
- },
- {
-  "key": "达达龟",
-  "name": "达达龟",
-  "host": "https://www.dadagui.me",
-  "avail": "可用",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "追剧迷",
-  "name": "追剧迷",
-  "host": "https://www.zhuijumi.cc",
-  "avail": "存活受限",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "追忆影视",
-  "name": "抖音追忆tv",
-  "host": "http://app.alovo.cn",
-  "avail": "DNS失效",
-  "avail_4k": null,
-  "categories": [
-   "电影",
-   "电视剧",
-   "动漫",
-   "综艺"
-  ]
- },
- {
-  "key": "速看一百",
-  "name": "速看100[V2]",
-  "host": "https://sk100.tv/api.php/app/",
-  "avail": "存活受限",
-  "avail_4k": null,
-  "categories": [
-   "体育",
-   "电影",
-   "连续剧",
-   "综艺",
-   "动漫",
-   "解说",
-   "记录片",
-   "预告片"
-  ]
+  ],
+  "in_subscription": 1
  },
  {
   "key": "采集之王",
@@ -897,23 +517,8 @@
   "host": "",
   "avail": "NO_URL",
   "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "量子影视",
-  "name": "量子影视",
-  "host": "http://www.lzizy9.com",
-  "avail": "DNS失效",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "金曼影视",
-  "name": "金曼影视",
-  "host": "https://www.jinmantv.com",
-  "avail": "连接超时",
-  "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "零零七",
@@ -921,7 +526,8 @@
   "host": "https://www.007ts.me",
   "avail": "可用",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
   "key": "首播影院",
@@ -929,22 +535,16 @@
   "host": "https://www.23zhui.com",
   "avail": "可用",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  },
  {
-  "key": "驴番动漫",
-  "name": "驴番[漫]",
-  "host": "https://www.lvfan.fun",
-  "avail": "DNS失效",
-  "avail_4k": null,
-  "categories": []
- },
- {
-  "key": "魔力高清",
+  "key": "HDmoli",
   "name": "HDmoli",
-  "host": "https://www.hdmoli.pro",
+  "host": "",
   "avail": "可用",
   "avail_4k": null,
-  "categories": []
+  "categories": [],
+  "in_subscription": 1
  }
 ]
