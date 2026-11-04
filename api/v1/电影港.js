@@ -3,7 +3,7 @@ var rule = {
     author: '荷城茶秀',
     host: 'https://www.dygang.tv',
     homeUrl: '/4K/',
-    url: '/4K/index_{catePg}.htm',
+    url: '/4K/index_fypage.htm[/4K/index.htm]',
     searchUrl: '/e/search/result/?searchid=1&keyboard=**',
     searchable: 2,
     quickSearch: 0,
